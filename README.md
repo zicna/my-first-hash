@@ -13,8 +13,8 @@
 In the `my_hash` method, use the literal constructor to set a variable called
 `your_hash` equal to a hash with key/value pairs of your choice.
 
-**Note**: The variable name you use within the `my\_hash` method does not actually
-matter. All that matters is that the return value of `my\_hash` is a valid hash.
+**Note**: The variable name you use within the `my_hash` method does not actually
+matter. All that matters is that the return value of `my_hash` is a valid hash.
 The return values of a method is always the last line of code a method
 executes.
 
