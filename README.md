@@ -13,10 +13,10 @@
 In the `my_hash` method, use the literal constructor to set a variable called
 `your_hash` equal to a hash with key/value pairs of your choice.
 
-_Note: The variable name you use within the `my\_hash` method does not actually
+**Note**: The variable name you use within the `my\_hash` method does not actually
 matter. All that matters is that the return value of `my\_hash` is a valid hash.
 The return values of a method is always the last line of code a method
-executes._
+executes.
 
 Remember, key/value pairs are associative. It doesn't make sense to have a
 key/value pair of `"my_name" => 78`. It *does* make sense to have a key/value
